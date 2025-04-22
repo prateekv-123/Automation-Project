@@ -1,2 +1,2 @@
 # Automation-Project
-This is my First Repository.
+This is my First GIT Repository.
